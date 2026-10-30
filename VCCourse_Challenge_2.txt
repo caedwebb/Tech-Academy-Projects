@@ -1,0 +1,1 @@
+I used touch VCCCourse_Challenge_2 to create this file in bash.
